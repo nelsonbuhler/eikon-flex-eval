@@ -33,7 +33,7 @@
   display: flex;
   flex-flow: row-reverse;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .exercice-4 .element-red {
