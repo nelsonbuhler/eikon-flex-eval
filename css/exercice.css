@@ -15,6 +15,18 @@
 }
 
 /* 3. exercice-3 */
+.exercice-3 .container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-items: end;
+  justify-content: space-around;
+}
+
+.exercice-3 .element-blue {
+  order: -1;
+  align-self: flex-start;
+}
 
 /* 4. exercice-4 */
 
