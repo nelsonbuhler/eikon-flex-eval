@@ -92,7 +92,17 @@
   order: 1;
   flex-grow: 1;
 }
+
 /* 9. exercice-9 */
+.exercice-9 .container {
+  display: flex;
+  align-items: baseline;
+  flex-flow: row wrap;
+}
+
+.exercice-9 .element {
+  width: 50%;
+  box-sizing: border-box;
+}
 
 /* 10. exercice-10 */
-
