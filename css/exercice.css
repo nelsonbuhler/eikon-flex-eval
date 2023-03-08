@@ -50,6 +50,12 @@
 }
 
 /* 5. exercice-5 */
+.exercice-5 .container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
 
 /* 6. exercice-6 */
 
