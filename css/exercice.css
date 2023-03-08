@@ -54,7 +54,7 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  align-items: center;
+  align-content: center;
 }
 
 /* 6. exercice-6 */
